@@ -1,6 +1,6 @@
 
 
-<h2>puppetmaster.conf</h2>
+<h2>Puppetmaster Apache Virtual Host File</h2>
 ```bash
-sudo cp puppetmaster.conf /etc/httpd/conf.d/puppetmaster.conf
+/etc/httpd/conf.d/puppetmaster.conf
 ```
